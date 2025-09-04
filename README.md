@@ -1,11 +1,11 @@
 # Hello, I'm xrzi! 👋
 
-I'm a (hireable btw) versatile developer with experience in multiple programming languages and various areas of software development.
+I'm a versatile developer & devops engineer with experience in multiple programming languages and various areas of software development.
 
 ## Skills
 
  - Languages: Python (main), Rust, C/C++;
- - DevOps: Linux, Docker, CI/CD, Bash;
+ - DevOps: Linux, Docker, CI/CD, Bash, Ansible, Kubernetes, Helm;
  - Frameworks/Libraries: Flask, Django, FastAPI, aiohttp, SQLAlchemy;
  - Bots: telegram-bot-api, aiogram;
  - Other: Selenium, BeautifulSoup4, requests;
@@ -16,7 +16,6 @@ I'm a (hireable btw) versatile developer with experience in multiple programming
  - minesweeper_tui: A classic minesweeper game with terminal graphics
  - pomodoro_bot: A Telegram bot for team productivity
  - TokenValidityCheck: A module to check Telegram API token validity
- - pngix_scraper: A script for scraping pngix.com
  - typing_trainer: A terminal-based typing trainer
  - gaussian_blur: Python implementation of Gaussian blur from scratch
 
